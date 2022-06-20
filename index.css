@@ -1,0 +1,9 @@
+@media screen and (max-width: 300px) {
+    span.forgetPassword {
+        display: block;
+        float: none;
+    }
+    .cancelbtn {
+        width: 100%;
+    }
+}
